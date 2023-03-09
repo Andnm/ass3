@@ -1,0 +1,55 @@
+[{
+  "_id": {
+    "$oid": "64016f2ae546775f21cefb21"
+  },
+  "name": "Spain",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bandera_de_Espa%C3%B1a.svg/1200px-Bandera_de_Espa%C3%B1a.svg.png",
+  "description": "Star team",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1677815594666"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1677815594666"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64016fd1e546775f21cefb26"
+  },
+  "name": "Argentina",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg",
+  "description": "Victory Team",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1677815761128"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1677815761128"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6401702ee546775f21cefb2a"
+  },
+  "name": "France",
+  "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAARMAAAC3CAMAAAAGjUrGAAAAFVBMVEX///8AJlTOESYAGU16gpXefILNABnwlnA6AAAA/klEQVR4nO3QSQ0AIAADsHH6l4yKPUhaCc2oWTs9586aOHHixIkTJ06cOHHixIkTJ06cOHHixIkTJ06cOHHixIkTJ06cOHHixIkTJ06cOHHixIkTJ06cOHHixIkTJ06cOHHixIkTJ06cOHHixIkTJ06cOHHixIkTJ06cOHHixIkTJ06cOHHixIkTJ06cOHHixIkTJ06cOHHixIkTJ06cOHHixIkTJ06cOHHixIkTJ06cOHHixIkTJ06cOHHixIkTJ06cOHHixIkTJ06cOHHixIkTJ06cOHHixIkTJ06cOHHixIkTJ06cOHHixIkTJ06cOHHixIkTJ06cOHHy4ckD5KrN4eD2boIAAAAASUVORK5CYII=",
+  "description": "ok",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1677815854834"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1677815854834"
+    }
+  },
+  "__v": 0
+}]

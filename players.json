@@ -1,0 +1,73 @@
+[{
+  "_id": {
+    "$oid": "64017394f740be3d2e0362fc"
+  },
+  "name": "Cristiano Ronaldo",
+  "image": "https://cdnimg.vietnamplus.vn/uploaded/ivpycivo/2022_11_24/_127542724_gettyimages1228407694.jpg",
+  "nation": {
+    "$oid": "64016f2ae546775f21cefb21"
+  },
+  "club": "Manchester United",
+  "position": "Forwards",
+  "goals": 12,
+  "isCaptain": "Captain",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1677816724493"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1677816724493"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "640175b5f740be3d2e03632b"
+  },
+  "name": "Leo Messi",
+  "image": "https://i1-suckhoe.vnecdn.net/2022/12/19/333M6EP-highres-3276-1671417547.jpg?w=680&h=0&q=100&dpr=1&fit=crop&s=Xw3xcDlAJWQEq0rdfsHS5w",
+  "nation": {
+    "$oid": "64016fd1e546775f21cefb26"
+  },
+  "club": "Barcelona",
+  "position": "Forwards",
+  "goals": 15,
+  "isCaptain": "Captain",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1677817269902"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1677817269902"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64017dd8f740be3d2e036402"
+  },
+  "name": "Kylian Mbappé",
+  "image": "https://baotayninh.vn/image/fckeditor/upload/2022/20221225/images/kylian-mbappe-8540.jpg",
+  "nation": {
+    "$oid": "6401702ee546775f21cefb2a"
+  },
+  "club": "PSG",
+  "position": "Forwards",
+  "goals": 5,
+  "isCaptain": "Captain",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1677819352448"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1677819352448"
+    }
+  },
+  "__v": 0
+}]
